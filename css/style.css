@@ -1,0 +1,22 @@
+#draw{
+    display: block;
+    width: 120px;
+    height: 120px;
+    margin: 50px auto;
+    background-color:lightblue;
+    color:white;
+    font-weight: 700;
+    font-size: 110%;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    outline: none;
+}
+
+.diametr-circle, .color-circle{
+    margin: 20px auto;
+    display: block;
+    width: 180px;
+}
+
+
