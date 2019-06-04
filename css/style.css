@@ -1,4 +1,4 @@
-#draw{
+#draw, .drawBtn{
     display: block;
     width: 120px;
     height: 120px;
@@ -12,11 +12,14 @@
     border-radius: 50%;
     outline: none;
 }
+.drawBtn{
+    width:120px;
+    background-color:limegreen;
+}
 
 .diametr-circle, .color-circle{
     margin: 20px auto;
     display: block;
     width: 180px;
 }
-
 
